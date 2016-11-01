@@ -1,10 +1,31 @@
+
 * {
 	font-family: Helvetica, Arial, sans-serif;
 	box-sizing: border-box;
 }
 
-h1 {
-	font-size: 300px;
-	text-align: center;
-	color: fuchsia;
+#app-container{
+
+}
+
+
+.prisoner-info{
+   padding: 2px;
+   width: 33%;
+
+}
+
+.prisoner-card{
+   height: 300px;
+   width: 300px;
+   padding: 2%;
+   margin: 0;
+   background: #C8F7C5;
+
+}
+.congress-info{
+	font-size: 10px;
+	list-style: none;
+
+   padding: 0;
 }
