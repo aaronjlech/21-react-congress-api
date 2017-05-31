@@ -10,7 +10,7 @@ let CongressPeople = React.createClass({
       return(
          <div className="row congress-people">
             <CongressListing userData={this.props.congData}/>
-
+            <h1>new change</h1>
          </div>
 
 
